@@ -47,5 +47,4 @@ Contributions are welcome! If you'd like to contribute to this project, please o
 
 This project is licensed under the MIT License.
 
-Feel free to reach out if you have any questions or need further assistance with this README file. Good luck with your Hangman game project!
 
