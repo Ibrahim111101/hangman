@@ -33,3 +33,19 @@ To run this game, you will need [Python](https://www.python.org/) installed on y
    ```sh
    git clone https://github.com/your-username/hangman-game.git
    cd hangman-game
+# Usage
+
+- Use the keyboard to input your letter guesses.
+- Track your progress and try to guess the word with the fewest attempts.
+- Enjoy and have fun playing!
+
+# Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please open an issue or create a pull request.
+
+# License
+
+This project is licensed under the MIT License.
+
+Feel free to reach out if you have any questions or need further assistance with this README file. Good luck with your Hangman game project!
+
