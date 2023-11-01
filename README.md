@@ -19,8 +19,6 @@ During the development of this Hangman game project, I, as the creator, had the 
 
 - Object-Oriented Programming (OOP): This project allowed me to practice OOP principles by creating classes, methods, and objects to structure the game.
 
-- User Interaction: Implementing user input and feedback systems improved my ability to create interactive applications.
-
 - Game Development Concepts: I explored the basics of game development, including word selection, and win/lose conditions.
 
 - Problem-Solving: Working on this project honed my problem-solving skills as I encountered and resolved various challenges along the way.
@@ -29,7 +27,6 @@ During the development of this Hangman game project, I, as the creator, had the 
 ## Features
 - Random word selection for guessing.
 - Limited number of attempts for guessing the word.
-- Visual representation of the hangman figure as you guess wrong letters.
 - End game condition (win or lose).
 
 ## How to Play
@@ -37,8 +34,7 @@ During the development of this Hangman game project, I, as the creator, had the 
 2. Install any necessary dependencies (if there are any).
 3. Run the Hangman game.
 4. The game will select a random word, and you need to guess it one letter at a time.
-5. You have a limited number of attempts, and with each incorrect guess, a part of the hangman figure is drawn.
-6. Try to guess the word before the hangman is completely drawn to win.
+5. You have a limited number of attempts. Try to guess the Word!
 
 ## Installation
 To run this game, you will need [Python](https://www.python.org/) installed on your computer. Follow these steps:
