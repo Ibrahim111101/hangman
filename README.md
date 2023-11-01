@@ -12,6 +12,20 @@
 ## Description
 This is a simple Hangman game created as a fun project. The game is based on the classic word-guessing game where one player thinks of a word, and the other player tries to guess it by suggesting letters within a certain number of attempts. The aim of this project is to create an entertaining game to enjoy and learn more about programming.
 
+## What I learned
+During the development of this Hangman game project, I, as the creator, had the opportunity to acquire and reinforce several key skills and knowledge areas:
+
+- Python Programming: I deepened my understanding of Python, using it to implement game logic, handle user input, and manage game state.
+
+- Object-Oriented Programming (OOP): This project allowed me to practice OOP principles by creating classes, methods, and objects to structure the game.
+
+- User Interaction: Implementing user input and feedback systems improved my ability to create interactive applications.
+
+- Game Development Concepts: I explored the basics of game development, including word selection, and win/lose conditions.
+
+- Problem-Solving: Working on this project honed my problem-solving skills as I encountered and resolved various challenges along the way.
+
+
 ## Features
 - Random word selection for guessing.
 - Limited number of attempts for guessing the word.
